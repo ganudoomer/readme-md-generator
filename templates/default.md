@@ -1,6 +1,6 @@
-<h1 align="center">Welcome to <%= projectName %> 👋</h1>
+<h1 align="center">Welcome to <%= My Mart %> 👋</h1>
 <p>
-<% if (isProjectOnNpm) { -%>
+  if (isProjectOnNpm) {
   <a href="https://www.npmjs.com/package/<%= projectName %>" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/<%= projectName %>.svg">
   </a>
